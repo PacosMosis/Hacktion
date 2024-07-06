@@ -1,5 +1,5 @@
 # Proyecto Intermediario de Ventas
-Prooyecto comunitario
+Proyecto comunitario
 ---
 
 ## Descripción
