@@ -27,7 +27,7 @@ El Proyecto es un servicio diseñado para facilitar la gestión de pedidos y la 
 
 - **Lenguaje de Programación:** Python
 - **Base de Datos:** Notion
-- **Interfaz de Usuario:** Interfaz de línea de comandos (CLI) para simplicidad y portabilidad.
+- **Interfaz de Usuario:** Interfaz de línea de comandos (CLI) / HTML & CSS.
 
 ---
 
