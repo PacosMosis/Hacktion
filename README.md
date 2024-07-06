@@ -41,5 +41,10 @@ El Proyecto es un servicio diseñado para facilitar la gestión de pedidos y la 
 ### Pasos para la Instalación
 
 1. **Clonar el Repositorio:**
-   'git clone https://github.com/PacosMosis/Hacktion.git'
-   'cd Hacktion'
+
+```
+git clone https://github.com/PacosMosis/Hacktion.git
+```
+```
+cd Hacktion
+```
